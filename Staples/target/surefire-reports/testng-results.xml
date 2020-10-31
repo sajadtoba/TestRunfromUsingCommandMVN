@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-31T00:47:43Z" name="Staple Automation Script " finished-at="2020-10-31T00:47:47Z" duration-ms="4387">
+    <groups>
+    </groups>
+    <test started-at="2020-10-31T00:47:43Z" name="Staples Home" finished-at="2020-10-31T00:47:47Z" duration-ms="4387">
+      <class name="homeStapleSecondLevelUsingParameter.HomeStapleSecondLevelUsingParameter">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:homeStapleSecondLevelUsingParameter.HomeStapleSecondLevelUsingParameter@543e710e]" started-at="2020-10-31T00:47:43Z" name="setUp" finished-at="2020-10-31T00:47:45Z" duration-ms="2290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.staples.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchOneItem()[pri:0, instance:homeStapleSecondLevelUsingParameter.HomeStapleSecondLevelUsingParameter@543e710e]" started-at="2020-10-31T00:47:45Z" name="testSearchOneItem" finished-at="2020-10-31T00:47:47Z" duration-ms="2030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchOneItem -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:homeStapleSecondLevelUsingParameter.HomeStapleSecondLevelUsingParameter@543e710e]" started-at="2020-10-31T00:47:47Z" name="cleanUp" finished-at="2020-10-31T00:47:47Z" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- homeStapleSecondLevelUsingParameter.HomeStapleSecondLevelUsingParameter -->
+    </test> <!-- Staples Home -->
+  </suite> <!-- Staple Automation Script  -->
+</testng-results>

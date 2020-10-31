@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-29T17:30:18Z" name="Amazon Automation Script " finished-at="2020-10-29T17:30:22Z" duration-ms="3942">
+  <suite started-at="2020-10-31T00:47:38Z" name="Amazon Automation Script " finished-at="2020-10-31T00:47:42Z" duration-ms="3243">
     <groups>
     </groups>
-    <test started-at="2020-10-29T17:30:18Z" name="Amazon Home" finished-at="2020-10-29T17:30:22Z" duration-ms="3942">
+    <test started-at="2020-10-31T00:47:38Z" name="Staples Home" finished-at="2020-10-31T00:47:42Z" duration-ms="3243">
       <class name="homeAmazonSecondLevelUsingParameter.HomeAmazonSecondLevelUsingParameter">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:homeAmazonSecondLevelUsingParameter.HomeAmazonSecondLevelUsingParameter@543e710e]" started-at="2020-10-29T17:30:18Z" name="setUp" finished-at="2020-10-29T17:30:21Z" duration-ms="2762" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:homeAmazonSecondLevelUsingParameter.HomeAmazonSecondLevelUsingParameter@543e710e]" started-at="2020-10-31T00:47:38Z" name="setUp" finished-at="2020-10-31T00:47:40Z" duration-ms="1904" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testSearchFewItems()[pri:0, instance:homeAmazonSecondLevelUsingParameter.HomeAmazonSecondLevelUsingParameter@543e710e]" started-at="2020-10-29T17:30:21Z" name="testSearchFewItems" finished-at="2020-10-29T17:30:22Z" duration-ms="1111" status="PASS">
+        <test-method signature="testSearchFewItems()[pri:0, instance:homeAmazonSecondLevelUsingParameter.HomeAmazonSecondLevelUsingParameter@543e710e]" started-at="2020-10-31T00:47:40Z" name="testSearchFewItems" finished-at="2020-10-31T00:47:42Z" duration-ms="1273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchFewItems -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:homeAmazonSecondLevelUsingParameter.HomeAmazonSecondLevelUsingParameter@543e710e]" started-at="2020-10-29T17:30:22Z" name="cleanUp" finished-at="2020-10-29T17:30:22Z" duration-ms="58" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:homeAmazonSecondLevelUsingParameter.HomeAmazonSecondLevelUsingParameter@543e710e]" started-at="2020-10-31T00:47:42Z" name="cleanUp" finished-at="2020-10-31T00:47:42Z" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
       </class> <!-- homeAmazonSecondLevelUsingParameter.HomeAmazonSecondLevelUsingParameter -->
-    </test> <!-- Amazon Home -->
+    </test> <!-- Staples Home -->
   </suite> <!-- Amazon Automation Script  -->
 </testng-results>

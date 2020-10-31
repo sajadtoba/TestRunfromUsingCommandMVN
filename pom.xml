@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>GuardianLifeInsurance</module>
+        <module>Staples</module>
 
     </modules>
     <dependencyManagement>

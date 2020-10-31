@@ -34,10 +34,7 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.0.0-M3</version>
                 <configuration>
-                    <!--                    <suiteXmlFiles>-->
-                    <!--                        <suiteXmlFiles>/Users/abc/Desktop/CareFirst/Cnn/src/main/resources/CnnTesRunnerWithSafari.xml</suiteXmlFiles>-->
-                    <suiteXmlFiles>src/main/resources/TestAmazonSecondLevelRunner.xml</suiteXmlFiles>
-                    <!--                                       </suiteXmlFiles>-->
+                     <suiteXmlFiles>src/main/resources/TestAmazonSecondLevelRunner.xml</suiteXmlFiles>
                 </configuration>
             </plugin>
         </plugins>
